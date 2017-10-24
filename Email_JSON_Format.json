@@ -1,0 +1,81 @@
+{
+	"total_results": 9,
+	"Primary": [
+		{
+			"original_email_name": "AVTAR Career Creators",
+			"id": 1
+			"email_subject": "Job | Job Hiring 28th Oct 2017 for Java Technology in Pune",
+			"email_long_desc": "The sender of this email is registered with Naukri.com as AVTAR Career Creators company",
+			"flag_imp": "true",
+			"flag_attached": "false"
+		},
+		{
+			"original_email_name": "Wipro Coding Practice",
+			"id": 2
+			"email_subject": "Solution of the problem is Available - Practice More",
+			"email_long_desc": "You have participated in the Wipro Practice Challenge",
+			"flag_imp": "false",
+			"flag_attached": "false"
+		},
+		{
+			"original_email_name": "TechGig Latest News",
+			"id": 3
+			"email_subject": "Earn Big As A FreeLancer With These Tech Skills",
+			"email_long_desc": "Daily Newsletter",
+			"flag_imp": "true",
+			"flag_attached": "false"
+		}
+	]
+	"Social": [
+		{
+			"original_email_name": "LinkedIn",
+			"id": 4
+			"email_subject": "you have 2 invitations waiting for you on LinkedIn",
+			"email_long_desc": "see what your network has been up to",
+			"flag_imp": "false",
+			"flag_attached": "false"
+		},
+		{
+			"original_email_name": "Facebook",
+			"id": 5
+			"email_subject": "Here's what you've saved on Facebook this week",
+			"email_long_desc": "Here's what you've saved on Facebook this week",
+			"flag_imp": "false",
+			"flag_attached": "false"
+		},
+		{
+			"original_email_name": "YouTube ",
+			"id": 6
+			"email_subject": "Youtube Channel For Kids: "Patlu and monkey humor - Motu Patlu cartoon for kids" and more videos",
+			"email_long_desc": "Youtube Channel For Kids: "Patlu and monkey humor - Motu Patlu cartoon for kids" and more videos",
+			"flag_imp": "false",
+			"flag_attached": "false"
+		}
+	]
+	"Promotions": [
+		{
+			"original_email_name": "Jigsaw Academy",
+			"id": 7
+			"email_subject": "Queries on Analytics? Talk to our COO",
+			"email_long_desc": "This is your chance to explore career options in analytics & Big Data which you ",
+			"flag_imp": "false",
+			"flag_attached": "false"
+		},
+		{
+			"original_email_name": "Paytm",
+			"id": 8
+			"email_subject": "Go Musical This Diwali!",
+			"email_long_desc": "Pay using Paytm at Gaana & Avail 100% Cashback. Hurry, Don't Miss",
+			"flag_imp": "false",
+			"flag_attached": "false"
+		},
+		{
+			"original_email_name": "BookMyShow",
+			"id": 9
+			"email_subject": "Offers two good to resist",
+			"email_long_desc": "A treat from us to you.",
+			"flag_imp": "false",
+			"flag_attached": "false"
+		}
+	]	
+}
